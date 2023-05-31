@@ -82,7 +82,7 @@ form > div.campo {
 }
 
 div.campo > label {
-    display: block;
+    display: none;
 }
 
 div.campo > span {
